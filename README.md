@@ -1,4 +1,4 @@
-# assignment_10
+# Responsive User Interface
 
 A new Flutter project.
 
